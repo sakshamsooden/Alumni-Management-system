@@ -1,0 +1,1 @@
+Alumni Management system is a C++ program that implements the concept of linked list in a simple way to store the alumni of a college using file handling. Additionally, it has functions to search alumni using binary search method, to sort alumni using bubble sort and to modify/update elements of the linked list containing alumni.
